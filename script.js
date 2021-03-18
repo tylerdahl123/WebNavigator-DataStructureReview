@@ -52,7 +52,13 @@ const question = 'Where would you like to go today? '
 // ------------------------------
 // User Interface Part 1
 // ------------------------------
-
+let finish = false;
+let showBack = false;
+let showNext = false; 
+showCurrentPage("Current: ");
+while(finish === false){
+  var instructions = baseInfo;
+}
   // ------------------------------
   // User Interface Part 2
   // ------------------------------

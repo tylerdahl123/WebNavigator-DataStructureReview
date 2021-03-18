@@ -1,0 +1,24 @@
+{
+  "name": "WebNavigator-DataStructureReview",
+  "version": "1.0.0",
+  "description": "![Badge for Github License](https://img.shields.io/github/license/tylerdahl123/WebNavigator-DataStructureReview)![Badge for GitHub repo top language](https://img.shields.io/github/languages/top/tylerdahl123/WebNavigator-DataStructureReview?style=flat&logo=appveyor) ![Badge for GitHub last commit](https://img.shields.io/github/last-commit/tylerdahl123/WebNavigator-DataStructureReview?style=flat&logo=appveyor)",
+  "main": "LinkedList.js",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tylerdahl123/WebNavigator-DataStructureReview.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tylerdahl123/WebNavigator-DataStructureReview/issues"
+  },
+  "homepage": "https://github.com/tylerdahl123/WebNavigator-DataStructureReview#readme"
+}
